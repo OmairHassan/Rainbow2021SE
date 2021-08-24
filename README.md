@@ -1,2 +1,2 @@
 # Rainbow2021SE
-Following Daniel Shipman intro to Git and Github
+Following Daniel Shiffman intro to Git and Github
